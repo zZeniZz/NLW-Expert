@@ -1,6 +1,6 @@
 # NLW-Expert
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas na Trilha de HTML/CSS/JS
 
 - HTML
 - CSS
